@@ -1,7 +1,7 @@
 # Udacity_Nanodegree
 
-[image1]: ./CVND.pdf    
-[image2]: ./DLND.pdf   
+[image1]: ./CVND.jpg    
+[image2]: ./DLND.jpg   
 
 Gradution Certificates
 
